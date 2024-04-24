@@ -1,9 +1,5 @@
 # teste-tecnico-intern-kaua
 
-# teste-tecnico-intern
-
-
-
 Para o desafio é esperado que o participante implemente sua versão do game of life, recomendamos o uso de html, javascript e css, porém pode ser utilizado qualquer linguagem/framework.
 
 ## Regras do teste técnico
