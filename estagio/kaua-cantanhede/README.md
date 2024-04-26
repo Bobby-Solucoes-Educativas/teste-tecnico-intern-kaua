@@ -13,6 +13,10 @@ Para a implementação do Jogo da Vida, foi essencial a utilização da bibliote
     ```
 
 ## Execução
+Caso já esteja com o projeto clonado, basta instalar as dependencias usadas no projeto, para isso use o seguinte comando:
+    ```
+    npm install
+    ```
 
 Quanto a execução do projeto basta seguir os seguintes passos:
 
