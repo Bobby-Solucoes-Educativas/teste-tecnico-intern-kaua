@@ -27,3 +27,6 @@ Quanto a execução do projeto basta seguir os seguintes passos:
 
 Com isso a aplicação será execultada em seu navegador
 
+# Contato 
+
+email de colaborador: kaua.cantanhede.santos@gmail.com
